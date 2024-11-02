@@ -1,0 +1,10 @@
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-dotenv>=1.0.0
+yt-dlp>=2023.11.16
+opencv-python-headless>=4.8.1
+numpy>=1.24.0
+groq>=0.4.0
+aiohttp>=3.9.0
+pydantic>=2.5.0
+python-multipart>=0.0.6 
